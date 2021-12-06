@@ -4,6 +4,12 @@ h1{
    line-height: 1.5;
 }
 
+h2{
+   font-family: "Montserrat-Black";
+   font-size: 3rem;
+   line-height: 1.5;
+}
+
 h3{
    font-family: "Montserrat-Bold";
    font-size: 1.5rem;
@@ -53,12 +59,20 @@ h3{
    height: 150px;
  }
 
+ .press-img{
+    width: 150px;
+    height: 150px;
+    margin: 50px 100px ;
+    background-color: gold;
+ }
+
 
 
 
  /* ID */
  #title{
     background-color:#AAAAAA;
+    text-align: center;
 
  }
 
@@ -82,7 +96,7 @@ h3{
 }
 
 #down-2{
-   margin: 0% 2.5%
+   margin: 0% 2.8%
 }
 
 #down-3{
@@ -104,11 +118,11 @@ h3{
 }
 
 #praveen_1{
-   margin-top: 55px;
+   margin-top: 20px;
 }
 
 #praveen_2{
-   padding: 2% 2%;
+   margin: 20px;
 }
 
 #bharathi{
@@ -117,7 +131,7 @@ h3{
 }
 
 #bharathi_1{
-   padding: 2% 2%;
+   margin: 20px;
 }
 
 #bharathi_2{
@@ -131,11 +145,11 @@ h3{
 }
 
 #naveen_1{
-     margin-top: 50px;
+     margin-top: 20px;
 }
 
 #naveen_2{
-   padding: 2% 2%;
+   margin: 20px;
 }
 
 #cta{
@@ -150,4 +164,9 @@ h3{
    background-color: black;
    color: whitesmoke;
    padding: 2% 0%;
+}
+
+#press{
+   text-align: center;
+   background-color: gold;
 }
