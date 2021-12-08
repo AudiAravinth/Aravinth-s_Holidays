@@ -66,6 +66,10 @@ h3{
     background-color: gold;
  }
 
+ .carousel-item{
+    padding: 7% 15%;
+ }
+
 
 
 
@@ -109,6 +113,7 @@ h3{
 
 #testimonials{
    text-align: center;
+   background-color: darkblue;
    
 }
 
@@ -169,4 +174,12 @@ h3{
 #press{
    text-align: center;
    background-color: gold;
+}
+
+#smedia{
+   margin: 2%;
+}
+
+#smedia:hover{
+   color: green;
 }
